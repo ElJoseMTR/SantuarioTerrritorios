@@ -70,6 +70,375 @@
             "activo": false
           },
           {
+            "nombre": "MTiendaSureÃ±a",
+            "activo": false
+          },
+          {
+            "nombre": "MCasaCarnaval",
+            "activo": false
+          }
+        ]
+      },
+      {
+        "grupo": "Grupo_2",
+        "manzanas": [
+          {
+            "nombre": "MSede",
+            "activo": false
+          },
+          {
+            "nombre": "MColegioCorazonSantuario",
+            "activo": false
+          },
+          {
+            "nombre": "MFCantillo",
+            "activo": false
+          },
+          {
+            "nombre": "MFCera",
+            "activo": false
+          },
+          {
+            "nombre": "MMiselaneaEdgar",
+            "activo": false
+          },
+          {
+            "nombre": "MFNuma",
+            "activo": false
+          },
+          {
+            "nombre": "MFCastaÃ±eda",
+            "activo": false
+          },
+          {
+            "nombre": "MHJulia",
+            "activo": false
+          },
+          {
+            "nombre": "MParquecito",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaDiosConNosotros",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaMiAngelDeAmor",
+            "activo": false
+          },
+          {
+            "nombre": "MLos6Hermanos",
+            "activo": false
+          },
+          {
+            "nombre": "MHKelly",
+            "activo": false
+          },
+          {
+            "nombre": "MFMartinez",
+            "activo": false
+          },
+          {
+            "nombre": "MAlFrenteFMartinez",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaMerkanubar",
+            "activo": false
+          },
+          {
+            "nombre": "MAlLadoParqueAbandonado",
+            "activo": false
+          },
+          {
+            "nombre": "MAlLadoTiendaPrecioEsCorrecto",
+            "activo": false
+          },
+          {
+            "nombre": "MParqueGoldaMeir",
+            "activo": false
+          },
+          {
+            "nombre": "MAlLadoFCoronado",
+            "activo": false
+          },
+          {
+            "nombre": "MFCoronado",
+            "activo": false
+          },
+          {
+            "nombre": "MParqueAbandonado",
+            "activo": false
+          },
+          {
+            "nombre": "MFrenteFSuarez",
+            "activo": false
+          },
+          {
+            "nombre": "MFarmaciaJyH",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaPrecioEsCorrecto",
+            "activo": false
+          }
+        ]
+      },
+      {
+        "grupo": "Grupo_3",
+        "manzanas": [
+          {
+            "nombre": "MFPerezSegura",
+            "activo": false
+          },
+          {
+            "nombre": "MFPerezCarvajal",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaLaRenovacion",
+            "activo": false
+          },
+          {
+            "nombre": "MPanaderiaElLider",
+            "activo": false
+          },
+          {
+            "nombre": "MLosGallos",
+            "activo": false
+          },
+          {
+            "nombre": "MMuebleriaLuxuryHouse",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaLaFeEnDios",
+            "activo": false
+          },
+          {
+            "nombre": "MVariedadesFenicia",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaElBacan",
+            "activo": false
+          },
+          {
+            "nombre": "MEstaderoLaRetoba",
+            "activo": false
+          },
+          {
+            "nombre": "MTallerCarlos",
+            "activo": false
+          },
+          {
+            "nombre": "MSeÃ±oraLevix",
+            "activo": false
+          },
+          {
+            "nombre": "MHFrancelina",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaElEden",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaDondeTotto",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaNuevoRenacer",
+            "activo": false
+          },
+          {
+            "nombre": "MAlLadoDondeTotto",
+            "activo": false
+          },
+          {
+            "nombre": "MFSuarez",
+            "activo": false
+          },
+          {
+            "nombre": "MLasPiedras",
+            "activo": false
+          },
+          {
+            "nombre": "MLaIslita3",
+            "activo": false
+          },
+          {
+            "nombre": "MFrenteFTapia",
+            "activo": false
+          },
+          {
+            "nombre": "MFTapia",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaRivero",
+            "activo": false
+          },
+          {
+            "nombre": "MLaBombonera",
+            "activo": false
+          }
+        ]
+      },
+      {
+        "grupo": "Grupo_4",
+        "manzanas": [
+          {
+            "nombre": "MVariedadesSofy",
+            "activo": false
+          },
+          {
+            "nombre": "MBillaresLasPernicias",
+            "activo": false
+          },
+          {
+            "nombre": "MFrenteColegioLasAmericas",
+            "activo": false
+          },
+          {
+            "nombre": "MFCeren",
+            "activo": false
+          },
+          {
+            "nombre": "MColegioJesusDeNazareth",
+            "activo": false
+          },
+          {
+            "nombre": "MColegioAtanacioGirardot",
+            "activo": false
+          },
+          {
+            "nombre": "MPanaderiaEsquinaDelSabor",
+            "activo": false
+          },
+          {
+            "nombre": "MHEloina",
+            "activo": false
+          },
+          {
+            "nombre": "MHGloria2",
+            "activo": false
+          },
+          {
+            "nombre": "MHGloria",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaJJ",
+            "activo": false
+          },
+          {
+            "nombre": "MFrenteLaPanaderiaLaEsquinaDelSabor",
+            "activo": false
+          },
+          {
+            "nombre": "MFTorregrosa",
+            "activo": false
+          },
+          {
+            "nombre": "MRestauranteChino",
+            "activo": false
+          },
+          {
+            "nombre": "MFerreteriaElAmigo",
+            "activo": false
+          },
+          {
+            "nombre": "MHBelen",
+            "activo": false
+          },
+          {
+            "nombre": "MAlLadoFundacionChildrenInternational",
+            "activo": false
+          },
+          {
+            "nombre": "MFundacionChildrenInternational",
+            "activo": false
+          },
+          {
+            "nombre": "MIslitaDelBrazil",
+            "activo": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Febrero",
+    "grupos": [
+      {
+        "grupo": "Grupo_1",
+        "manzanas": [
+          {
+            "nombre": "MSalon",
+            "activo": false
+          },
+          {
+            "nombre": "MChacon",
+            "activo": false
+          },
+          {
+            "nombre": "MLaBotella",
+            "activo": false
+          },
+          {
+            "nombre": "MFCarvajal",
+            "activo": false
+          },
+          {
+            "nombre": "MFMaldonado",
+            "activo": false
+          },
+          {
+            "nombre": "MFrenteSalon",
+            "activo": false
+          },
+          {
+            "nombre": "MFPolanco",
+            "activo": false
+          },
+          {
+            "nombre": "MFVargas",
+            "activo": false
+          },
+          {
+            "nombre": "MTiendaLaPoderosa",
+            "activo": false
+          },
+          {
+            "nombre": "MFCriales",
+            "activo": false
+          },
+          {
+            "nombre": "MFEcheverria",
+            "activo": false
+          },
+          {
+            "nombre": "MHIslanda",
+            "activo": false
+          },
+          {
+            "nombre": "MFCastro",
+            "activo": false
+          },
+          {
+            "nombre": "MFSantiagoChacon",
+            "activo": false
+          },
+          {
+            "nombre": "MIslita",
+            "activo": false
+          },
+          {
+            "nombre": "MBicicletasBikebar",
+            "activo": false
+          },
+          {
             "nombre": "MTiendaSureña",
             "activo": false
           },
